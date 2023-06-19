@@ -1,0 +1,196 @@
+15:01:40.829 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+15:01:41.532 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+15:01:43.180 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+15:01:44.144 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+23:01:07.268 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+23:01:07.891 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+23:01:09.671 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+23:01:10.674 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+23:01:21.125 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+23:01:21.692 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+23:01:23.347 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+23:01:24.265 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+08:12:23.155 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+08:12:23.764 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+08:12:25.326 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+08:12:26.233 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+08:13:50.254 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+08:13:50.936 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+08:13:52.997 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+08:13:54.151 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+08:14:55.336 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+08:14:56.972 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+08:14:58.497 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+08:14:59.429 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+08:20:53.164 [TestNG-tests-1] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+08:20:53.817 [TestNG-tests-1] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+08:20:55.384 [TestNG-tests-1] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+08:20:56.348 [TestNG-tests-1] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+10:14:01.683 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:15:52.361 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:15:52.977 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+10:15:54.746 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+10:16:01.406 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+10:18:56.175 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:18:56.763 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+10:18:58.467 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+10:19:05.817 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+10:51:42.530 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:51:43.108 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+10:51:44.742 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+10:51:50.999 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+10:54:32.052 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:54:32.615 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+10:54:34.275 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+10:54:39.604 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+11:01:32.538 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+11:01:33.194 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+11:01:35.514 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+11:01:42.018 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+11:55:50.127 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+11:55:50.730 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+11:55:52.422 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+11:55:56.172 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+11:56:34.289 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+11:59:18.024 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+12:02:27.808 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+12:03:48.668 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:29:55.886 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:32:57.104 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:40:07.005 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:44:12.788 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:45:50.585 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:47:55.907 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:49:05.976 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:52:00.578 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+22:55:44.321 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+09:53:11.666 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+09:53:12.267 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+09:53:14.579 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+09:53:20.598 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+09:53:27.309 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:01:45.399 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:01:46.016 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+10:01:47.574 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+10:01:53.314 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+10:02:00.534 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC01_ AutomationTestcase*** 
+11:13:48.427 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+11:13:49.068 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+11:13:50.738 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+11:13:58.207 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+11:14:05.109 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:14:06.390 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:19:54.161 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+11:19:54.828 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+11:19:56.472 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+11:20:03.676 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+11:20:10.890 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:20:12.310 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:22:27.586 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:22:29.397 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+10:40:19.655 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+10:40:27.917 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+10:49:28.251 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+10:49:36.186 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+10:49:37.634 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+10:49:38.907 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+10:50:28.944 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+10:50:30.281 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+10:51:20.316 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+10:51:21.975 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+10:52:12.082 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+10:52:13.390 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:09:56.927 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:10:04.535 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:10:05.451 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:10:06.559 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:21:05.944 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:21:12.242 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:21:13.100 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:21:14.234 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:22:04.344 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:22:05.630 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:22:55.713 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:22:56.922 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:23:47.072 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:23:48.317 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:37:48.407 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:37:56.820 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:37:57.757 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:37:58.934 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:38:49.099 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:38:50.343 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:39:40.512 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:39:41.915 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:40:31.972 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:40:33.340 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:47:56.214 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:48:04.181 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:48:05.126 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:48:06.513 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:48:56.671 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:48:57.981 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:49:48.072 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:49:49.364 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:50:39.427 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:50:41.070 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:57:09.228 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:57:17.141 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:57:18.144 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:57:19.309 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:58:09.475 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:58:10.835 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:59:00.890 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:59:02.472 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:59:52.540 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:59:53.842 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:04:40.716 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:04:48.456 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:04:49.358 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:04:50.483 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:05:40.642 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:05:41.863 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:06:32.033 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:06:33.533 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:07:23.668 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:07:24.896 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:15:53.099 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:16:01.249 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:16:02.193 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:16:03.332 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:16:53.511 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:16:54.814 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:17:44.893 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:17:46.477 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:18:36.570 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:18:37.836 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:43:20.029 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:43:28.250 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:43:29.247 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:43:30.421 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:44:20.547 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:44:21.927 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:45:12.003 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:45:13.494 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+12:46:03.634 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+12:46:04.860 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+10:14:47.108 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:14:47.770 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+10:14:50.405 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+10:14:56.673 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+10:15:02.717 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Starting of test case TC02_ AutomationTestcase*** 
+10:15:10.725 [main] INFO  testCases.TC02_AutomationTestcase_LoginPage - ***Finishing of test case TC02_ AutomationTestcase*** 
+10:16:10.298 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+10:16:10.939 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+10:16:13.172 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+10:16:20.252 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
+10:24:02.463 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+10:24:04.645 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:13:10.821 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:13:19.434 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:13:21.233 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Starting of test case TC03_ AutomationTestcase*** 
+11:13:22.691 [main] INFO  testCases.TC03_AutomationTestcase_LoginPage_DDT - ***Finishing of test case TC03_ AutomationTestcase*** 
+11:14:11.456 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Starting of test case TC01_ AutomationTestcase*** 
+11:14:12.068 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***clicked on Register link*** 
+11:14:13.824 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Registration successful*** 
+11:14:21.257 [main] INFO  testCases.TC01_AutomationTestcase_HomePage - ***Finishing of test case TC01_ AutomationTestcase*** 
